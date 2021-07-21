@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayushisolanki
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on projects in full satck development
+- 💞️ I’m looking to collaborate on projects in full stack development
 - 📫 How to reach me ayushisolanki151@gmail.com
 
 <!---
